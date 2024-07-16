@@ -1,1 +1,1 @@
-make test duc
+make test docment
